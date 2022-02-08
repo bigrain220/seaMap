@@ -1,0 +1,93 @@
+{
+  "id": "1857945",
+  "name": "env-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5128953",
+      "name": "天气-风向",
+      "font_class": "tianqi-fengxiang",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "14465061",
+      "name": "direction",
+      "font_class": "direction",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "494667",
+      "name": "极端降雨",
+      "font_class": "tianqizitiku28",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "1115058",
+      "name": "流量",
+      "font_class": "liuliang",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "2570193",
+      "name": "眼睛",
+      "font_class": "yanjing-tianchong",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "2953960",
+      "name": "波浪能",
+      "font_class": "bolangneng",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "2953965",
+      "name": "潮汐能",
+      "font_class": "chaoxineng",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "4236615",
+      "name": "风速",
+      "font_class": "fengsu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5873758",
+      "name": "气压",
+      "font_class": "qiya",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "5996726",
+      "name": "温度",
+      "font_class": "temperature",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "12842736",
+      "name": "w_湿度",
+      "font_class": "w_shidu",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "13804987",
+      "name": "风向",
+      "font_class": "fengxiang",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    }
+  ]
+}

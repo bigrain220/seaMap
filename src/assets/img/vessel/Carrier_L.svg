@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px"
+     enable-background="new 0 0 400 86" xml:space="preserve" viewBox="0 0 400 86"
+     preserveAspectRatio="none">
+  <defs/>
+    <g transform="matrix(1 0 0 1 0 3)">
+    <path fill="#1A3949" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+          stroke-miterlimit="10"
+          d="   M381.756,35.5l16.498,13.625l-0.943-2.083l-40,5.062l-4.083,3.146H57.145l-6.584-3.916c0,0-31.5-2.209-45.833-11.988   c-4.739-3.233-4.214-8.084,5.196-11.138c10.554-3.426,34.304-4.573,52.387-4.298c1.839,1.227,4.562,2.34,4.562,2.34h270.521   L381.756,35.5z"/>
+        <polygon opacity="0.2" fill="#F2F2F2" points="8.04,41.25 388.225,41.25 390.061,43.25 10.862,43.25  "/>
+        <polygon opacity="0.2" fill="#F2F2F2" points="3.799,38.25 388.225,38.25 390.061,39.25 5.421,39.25  "/>
+        <path fill="none" stroke="#314551" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+              stroke-miterlimit="10" d="   M4.728,39.888"/>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    342.103,41.75 380.894,41.75 358.678,19.584 325.384,19.417   "/>
+            <polygon fill="#FFFFFF" stroke="#697277" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    341.811,29.75 362.311,29.75 343.811,11.75 325.311,11.75   "/>
+            <polygon fill="#BCCDD8" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10"
+                     points="    341.75,52.75 380.75,52.75 380.75,41.75 362.75,41.75 362.75,29.75 341.75,29.75   "/>
+            <polygon fill="#BCCDD8" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    325.75,30.167 341.75,52.417 341.75,29.417 325.75,11.917   "/>
+            <rect x="356.311" y="33.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="351.811" y="33.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="346.811" y="33.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="356.311" y="38.917" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="351.811" y="38.917" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="346.811" y="38.917" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="356.311" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="351.811" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="346.811" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="373.811" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="369.311" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <rect x="364.311" y="44.417" fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="2" height="2"/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    337.75,32.011 339.75,33.604 339.75,31.417 337.75,29.75   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    334.75,28.011 335.75,29.604 335.75,27.417 334.75,25.75   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    330.75,24.011 332.75,25.604 332.75,23.417 330.75,21.75   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    327.75,20.511 328.75,22.104 328.75,19.917 327.75,18.25   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    337.75,39.011 339.75,40.604 339.75,38.417 337.75,36.75   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    334.75,34.511 335.75,36.104 335.75,33.917 334.75,32.25   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    330.75,30.511 332.75,32.104 332.75,29.917 330.75,28.25   "/>
+            <polygon fill="#374044" stroke="#374044" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    327.75,26.511 328.75,28.104 328.75,25.917 327.75,24.25   "/>
+    </g>
+        <path fill="#012535" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+              d="M31.061,27.167   C10.394,29-5.106,32.834,4.728,39.888c-4.739-3.233-5.52-9.166,3.312-12.138c10.89-3.665,34.631-5.525,52.714-5.25   c1.839,1.227,6.119,3.917,6.119,3.917S49.908,25.495,31.061,27.167z"/>
+        <path fill="#DCE6EA" id="vessel" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"
+              stroke-linejoin="round" stroke-miterlimit="10"
+              d="   M1.645,34.417C0.739,37.63,9.849,49.425,13.379,58.25c1.245,3.112,1.75,4.683,1.785,9.5c0.039,5.41-3.087,10.362,13.397,13.417   c7.193,1.333,59.943,2.333,142.5,2.333c88.812,0,153.124-2.083,163.693-2.083c30,0,63.5-32.25,63.5-32.25l-0.943-2.104l-40,5.053   l-4.083,3.135H57.145l-6.584-3.916c0,0-13.562-0.709-28.617-4.801C8.924,42.995,3.057,39.388,1.645,34.417z"/>
+        <path fill="#AF0E44"
+              d="M16.139,67.173c0,0,23.057,3.235,54.088,3.994c47.894,1.171,104.334,1.397,131.058,1.292   c31.527-0.125,82.278-0.436,129.942-1.292c21.8-0.392,43.583-5.417,43.583-5.417c-11.311,7.831-25.09,14.667-39.057,14.667   c-9.227,0-105.86,3.083-131.193,3.083c-28.271,0-91.412-0.144-134.003-0.611c-22.188-0.243-38.872-1.296-41.997-1.972   C12.754,77.5,15.326,71.283,16.139,67.173z"/>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    293.558,47.75 320.754,47.75 307.504,30.348 282.92,30.407   "/>
+            <rect x="293.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    282.75,34.625 293.75,51.75 293.75,47.75 282.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    253.558,47.75 280.754,47.75 267.504,30.348 242.92,30.407   "/>
+            <rect x="253.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    242.75,34.625 253.75,51.75 253.75,47.75 242.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    213.558,47.75 240.754,47.75 227.504,30.348 202.92,30.407   "/>
+            <rect x="213.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    202.75,34.625 213.75,51.75 213.75,47.75 202.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    175.558,47.75 202.754,47.75 189.504,30.348 164.92,30.407   "/>
+            <rect x="175.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    164.75,34.625 175.75,51.75 175.75,47.75 164.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    135.558,47.75 162.754,47.75 149.504,30.348 124.92,30.407   "/>
+            <rect x="135.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    124.75,34.625 135.75,51.75 135.75,47.75 124.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    94.558,47.75 121.754,47.75 108.504,30.348 83.92,30.407   "/>
+            <rect x="94.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    83.75,34.625 94.75,51.75 94.75,47.75 83.75,30.407   "/>
+    </g>
+        <g>
+      <polygon fill="#FFFFFF" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+               points="    56.558,47.75 83.754,47.75 70.504,30.348 45.92,30.407   "/>
+            <rect x="56.75" y="47.75" fill="#1B2428" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                  stroke-miterlimit="10" width="27" height="4"/>
+            <polygon fill="#3B5159" stroke="#C8D2D6" stroke-linecap="round" stroke-linejoin="round"
+                     stroke-miterlimit="10" points="    45.75,34.625 56.75,51.75 56.75,47.75 45.75,30.407   "/>
+    </g>
+  </g>
+    <g transform="matrix(1 0 0 1 0 4)">
+    <polygon stroke="#CCCCCC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+             points="346.409,8.75    348.311,8.75 340.811,1.75 338.754,1.75  "/>
+        <rect x="346.75" y="7.75" fill="#FFFFFF" stroke="#697277" stroke-linecap="round" stroke-linejoin="round"
+              stroke-miterlimit="10" width="6" height="15"/>
+        <polygon fill="#7E9596" stroke="#CCCCCC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+                 points="   338.754,1.75 342.754,14.25 346.409,8.75  "/>
+        <polygon fill="#FFFFFF" stroke="#697277" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+                 points="   342.75,18.75 346.75,22.75 346.75,7.75 342.75,3.75  "/>
+        <polygon fill="#FFFFFF" stroke="#697277" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+                 points="   342.754,3.75 348.754,3.75 352.754,7.75 346.754,7.75  "/>
+        <polygon stroke="#CCCCCC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+                 points="358.409,20.75    360.311,20.75 350.811,11.75 348.754,11.75  "/>
+        <polygon fill="#7E9596" stroke="#CCCCCC" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+                 points="   348.75,11.75 348.75,20.332 358.405,20.75  "/>
+  </g>
+    <g id="HookPoint">
+	<path id="HookPointH" fill="none" d="M1.12,37.56C1.12,37.56,7.54,52.67,49.98,53.08"/>
+        <line id="HookPointE" fill="none" x1="293.17" y1="57" x2="352.65" y2="57"/>
+        <rect id="HookPointH_M0" x="1.12" y="37.56"/>
+        <rect id="HookPointH_C1" x="1.12" y="37.56"/>
+        <rect id="HookPointH_C2" x="7.54" y="52.67"/>
+        <rect id="HookPointH_C3" x="49.98" y="53.08"/>
+  </g>
+</svg>

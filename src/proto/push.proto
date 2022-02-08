@@ -1,0 +1,101 @@
+syntax = "proto3";
+
+package center;
+option java_package = "com.coneall.center.dto";
+option java_outer_classname = "PushProto";
+
+message Push {
+  Type type = 1;
+  int64 time = 2;
+  bytes body = 3;
+  enum Type {
+    UNKNOWN = 0;
+    COM_PORT = 1;
+    SERIAL_PORT = 2;
+    WIND = 3;
+    HOOK_STATION = 4;
+    HOOK_RELEASE = 5;
+    TERMINAL = 6;
+    LASER = 7;
+    LASER_POWER = 8;
+    TEMPERATURE = 9;
+    HUMIDITY = 10;
+    WAVE = 11;
+    PRESSURE = 12;
+    CURRENT = 13;
+    TIDE = 14;
+    VISIBILITY = 15;
+    RAIN = 16;
+    DLD = 17;
+    TERMINAL_INFO = 18;
+    WARNING = 19;
+  }
+}
+
+message Warning {
+  int64 id = 1;
+  int64 srv = 2;
+  int64 start = 3;
+  int32 filed = 4;
+  Flag flag = 5;
+  State state = 6;
+
+  enum Flag {
+    NORMAL = 0;
+    ALERT = 1;
+    WARN = 2;
+  }
+
+  enum State {
+    UNREAD = 0;
+    CONFIRM = 1;
+  }
+}
+
+message Terminal {
+  int64 id = 1;
+  optional Laser L = 2;
+  optional Laser R = 3;
+  optional sint32 ange = 4;
+}
+
+message Laser {
+  sint32 dis = 1;
+  sint32 spd = 2;
+}
+
+message TerminalInfo {
+  int64 id = 1;
+  Mode mode = 2;
+  optional int64 vessel = 3;
+  optional int32 dir = 4;
+  enum Mode {
+    OFF = 0;
+    APPROACH = 1;
+    MOORING = 2;
+    DEPARTURE = 3;
+  }
+}
+
+message Wind {
+  int64 id = 1;
+  int32 spd = 2;
+  int32 dir = 3;
+  Flag flag = 4;
+  enum Flag {
+    NORMAL = 0;
+    ALERT = 1;
+    WARN = 2;
+  }
+}
+
+message Tide {
+  int64 id = 1;
+  sint32 height = 2;
+  Tendency tendency = 3;
+  enum Tendency {
+    NORMAL = 0;
+    DOWN = 1;
+    UP = 2;
+  }
+}

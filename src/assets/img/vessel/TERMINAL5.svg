@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:boxy="http://www.boxy-svg.com/boxyNS" i:viewOrigin="-30.8677 545.1567" i:rulerOrigin="0 0" i:pageBounds="0 840 592 0" width="524.4340209960938" height="128.89599609375" overflow="visible" enable-background="new 0 0 524.434 128.896" xml:space="preserve" boxy:zoom="187" boxy:scrollX="-8" boxy:scrollY="-75" viewBox="0 0 524.43 128.9" preserveAspectRatio="none">
+  <defs/>
+  <metadata>
+    <variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+      <variableSet varSetName="binding1" locked="none">
+        <variables/>
+        <v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"/>
+      </variableSet>
+    </variableSets>
+    <sfw xmlns="http://ns.adobe.com/SaveForWeb/1.0/">
+      <slices/>
+      <sliceSourceBounds y="416.261" x="-30.868" width="524.434" height="128.896" bottomLeftOrigin="true"/>
+    </sfw>
+  </metadata>
+    <g i:extraneous="self">
+      <g id="Layer_2" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#FFFF4F004F00">
+        <linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="43.3081" y1="76.2676" x2="53.1886" y2="69.8187" gradientTransform="matrix(0.5337 -0.7359 0.8177 0.593 -34.5119 68.523)">
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_1_)" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M45.306,77.172l4.7-6.48l6.621,4.8l-4.7,6.481L45.306,77.172z"/>
+        <linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="317.1978" y1="421.1812" x2="324.6036" y2="411.9619" gradientTransform="matrix(0.7367 -0.5326 0.5918 0.8186 -9.4829 -93.9675)">
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_2_)" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M467.812,75.158l6.487-4.689l4.792,6.626l-6.488,4.69L467.812,75.158z"/>
+        <linearGradient id="XMLID_3_" gradientUnits="userSpaceOnUse" x1="11.4482" y1="99.9136" x2="11.4482" y2="122.5811">
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_3_)" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M0,99.914h22.896v22.667H0V99.914z"/>
+        <linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="512.9858" y1="98.7637" x2="512.9858" y2="121.4312">
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_4_)" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M501.538,98.764h22.896v22.667h-22.896V98.764z"/>
+        <linearGradient id="XMLID_5_" gradientUnits="userSpaceOnUse" x1="263.832" y1="70.5625" x2="263.832" y2="7.105427e-014">
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_5_)" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M300.832,51.149h-25.567l-0.163,19.414h-35.902V50.821l-12.367,0V0h74V51.149z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M22.911,111.423l-0.031,9.453l28.206-39.55l-4.454-3.175L22.911,111.423z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M80.593,29.94h146.239v20.88h-48.48l-0.26-12.041l-96.459-0.26l-25.74,36.399l-4.68-3.12L80.593,29.94z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M468.759,74.66L442.5,38h-95.939l-0.26,12.74h-45.759V29.68H443.8l29.38,41.6L468.759,74.66z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M501.536,109.866l0.104,9.077l-3.72-5.125l-24.353-32.742l4.22-3.138L501.536,109.866z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-miterlimit="10" d="      M285.476,128.896h-10.211V51.149h10.211V128.896z"/>
+      </g>
+    </g>
+</svg>

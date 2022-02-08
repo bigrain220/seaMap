@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:boxy="http://www.boxy-svg.com/boxyNS" i:viewOrigin="126.8179 396.7671" i:rulerOrigin="0 0" i:pageBounds="0 595.2754 841.8896 0" width="504.4540100097656" height="155.17999267578125" overflow="visible" enable-background="new 0 0 504.454 155.18" xml:space="preserve" boxy:zoom="195" boxy:scrollX="-7" boxy:scrollY="-56" viewBox="0 0 504.45 155.18" preserveAspectRatio="none">
+  <defs/>
+  <metadata>
+    <variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+      <variableSet varSetName="binding1" locked="none">
+        <variables/>
+        <v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"/>
+      </variableSet>
+    </variableSets>
+  </metadata>
+    <g i:extraneous="self">
+      <g id="Layer_2" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#FFFF4F004F00">
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M461.869,0.25h11.506v11.511h-11.506V0.25z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.2109" d="M353.647,128.057l34.514,26.966l-16.97-0.031      l-23.96-18.724L353.647,128.057z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.341" d="M351.91,94.053h81.046v10.443H351.91V94.053z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M90.98,0.292H79.475v11.511H90.98V0.292z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5821" d="M201.803,68.033h-91.076l0.059,10.287h91.076      L201.803,68.033z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.2793" d="M202.575,134.242l33.885,2.964l-1.579,17.786      h-34.105L202.575,134.242z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.376" d="M64.701,69.789L0.377,154.956l13.306,0.036      l59.359-78.918L64.701,69.789z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.2555" d="M199.69,23.596h-90.462v5.256h90.462V23.596z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.2369" d="M353.348,23.741h79.296v5.152h-79.296V23.741z      "/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.4985" d="M198.263,137.992h156.169V23.666H198.263      V137.992z"/>
+        <linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="467.6743" y1="10.5532" x2="467.6743" y2="114.8228">
+          <stop offset="0" style="stop-color:#FFFFFF"/>
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_1_)" stroke="#999999" stroke-width="0.5" d="M431.145,18.408l8.037-7.855l57.188,0.164      l7.834,7.774v96.331h-73.059V18.408z"/>
+        <linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-282.4922" y1="10.7207" x2="-282.4922" y2="78.3228" gradientTransform="matrix(-1 0 0 1 -197.3174 0)">
+          <stop offset="0" style="stop-color:#FFFFFF"/>
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_2_)" stroke="#999999" stroke-width="0.5" d="M111.204,15.867l-4.98-5.146L64.37,10.785      l-5.224,5.228v62.31h52.059V15.867z"/>
+      </g>
+    </g>
+</svg>

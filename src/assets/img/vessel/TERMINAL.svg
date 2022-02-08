@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100.21 164.09">
+    <defs>
+        <style>
+            .terminal path{
+                fill: #F88011;
+                stroke: #CCCCCC;
+                stroke-width: 0.5;
+            }
+            .station path{
+                fill: #FFFFFF;
+                stroke: #000000;
+                stroke-width: 0.5;
+            }
+        </style>
+    </defs>
+    <g id="Terminal" class="terminal">
+        <path d="M29.55,103.07l103.18,48.82,10.06,2.35H273.46l9.09-6.31,125-115.45h80.38v6.24H409.21L288.06,152.86l-14.42,8.69-130.85.18-13.27-3.07L26,109.68Z"/>
+        <path d="M612.34,32.48h80.38L815.29,145.69l19.21,8.54H956l16.91-4.88,97.82-46.27,3.2,6.77L972.07,158l-15.91,3.7H831.6L812.23,153,688.44,38.72h-76.1Z"/>
+        <path d="M32.88,97.24a16.19,16.19,0,1,0-16.19,16.19A16.19,16.19,0,0,0,32.88,97.24Z"/>
+        <path d="M155.35,147.4a16.19,16.19,0,1,0-16.19,16.19,16.19,16.19,0,0,0,16.19-16.19Z"/>
+        <path d="M290.26,147.4a16.19,16.19,0,1,0-16.19,16.19,16.19,16.19,0,0,0,16.19-16.19Z"/>
+        <path d="M842.38,147.4a16.19,16.19,0,1,0-16.19,16.19,16.19,16.19,0,0,0,16.19-16.19Z"/>
+        <path d="M977.29,147.4a16.19,16.19,0,1,0-16.19,16.19,16.19,16.19,0,0,0,16.19-16.19Z"/>
+        <path d="M1099.71,97.43a16.19,16.19,0,1,0-16.19,16.19h0A16.19,16.19,0,0,0,1099.71,97.43Z"/>
+        <path d="M422.72,56.21v-45l-5-5h-25l-5,5v45Z"/>
+        <path d="M409.22,1.25h-8V.5h8Z"/>
+        <path d="M407.81,6.25h-5.33v-5h5.33Z"/>
+        <path d="M712.72,56.21v-45l-5-5h-25l-5,5v45Z"/>
+        <path d="M699.22,1.25h-8V.5h8Z"/>
+        <path d="M697.8,6.25h-5.32v-5h5.32Z"/>
+        <path d="M471.43,38.72V11.24l-5-5H449l-5,5V38.72Z"/>
+        <path d="M460.44,1.25h-5.5v5h5.5Z"/>
+        <path d="M461.69,1.25h-8V.5h8Z"/>
+        <path d="M656.43,38.72V11.24l-5-5H634l-5,5V38.72Z"/>
+        <path d="M645.44,1.25h-5.5v5h5.5Z"/>
+        <path d="M646.69,1.25h-8V.5h8Z"/>
+        <path d="M486.77,75.85H613.84V8.74H486.77Z"/>
+    </g>
+    <g id="HookStation_1" class="station">
+        <path id="HOOK_1" d="M9.3,102.79H4.76V91.7H9.3Z"/>
+        <path id="HOOK_2" d="M15.74,102.79H11.2V91.7h4.54Z"/>
+        <path id="HOOK_3" d="M22.18,102.79H17.64V91.7h4.54Z"/>
+        <path id="HOOK_4" d="M28.62,102.79H24.08V91.7h4.54Z"/>
+    </g>
+    <g id="HookStation_2" class="station">
+        <path id="HOOK_5" d="M135,152.94h-4.54V141.86H135Z"/>
+        <path id="HOOK_6" d="M141.42,152.94h-4.53V141.86h4.53Z"/>
+        <path id="HOOK_7" d="M147.86,152.94h-4.53V141.86h4.53Z"/>
+    </g>
+    <g id="HookStation_3" class="station">
+        <path id="HOOK_8" d="M269.89,153h-4.53V141.86h4.53Z"/>
+        <path id="HOOK_9" d="M276.33,153H271.8V141.86h4.53Z"/>
+        <path id="HOOK_10" d="M282.77,153h-4.53V141.86h4.53Z"/>
+    </g>
+    <g id="HookStation_4" class="station">
+        <path id="HOOK_11" d="M404.28,19.27h-4.54V8.19h4.54Z"/>
+        <path id="HOOK_12" d="M410.72,19.27h-4.54V8.19h4.54Z"/>
+    </g>
+    <g id="HookStation_5" class="station">
+        <path id="HOOK_13" d="M456.74,19.27H452.2V8.19h4.54Z"/>
+        <path id="HOOK_14" d="M463.18,19.27h-4.54V8.19h4.54Z"/>
+    </g>
+    <g id="HookStation_6" class="station">
+        <path id="HOOK_15" d="M641.74,19.27H637.2V8.19h4.54Z"/>
+        <path id="HOOK_16" d="M648.18,19.27h-4.54V8.19h4.54Z"/>
+    </g>
+    <g id="HookStation_7" class="station">
+        <path id="HOOK_17" d="M694.19,19.27h-4.54V8.19h4.54Z"/>
+        <path id="HOOK_18" d="M700.63,19.27h-4.54V8.19h4.54Z"/>
+    </g>
+    <g id="HookStation_8" class="station">
+        <path id="HOOK_19" d="M822,153h-4.54V141.86H822Z"/>
+        <path id="HOOK_20" d="M828.46,153h-4.54V141.86h4.54Z"/>
+        <path id="HOOK_21" d="M834.9,153h-4.54V141.86h4.54Z"/>
+    </g>
+    <g id="HookStation_9" class="station">
+        <path id="HOOK_22" d="M956.93,153h-4.54V141.86h4.54Z"/>
+        <path id="HOOK_23" d="M963.37,153h-4.54V141.86h4.54Z"/>
+        <path id="HOOK_24" d="M969.81,153h-4.54V141.86h4.54Z"/>
+    </g>
+    <g id="HookStation_10" class="station">
+        <path id="HOOK_25" d="M1076.13,103h-4.54V91.89h4.54Z"/>
+        <path id="HOOK_26" d="M1082.57,103H1078V91.89h4.54Z"/>
+        <path id="HOOK_27" d="M1089,103h-4.54V91.89H1089Z"/>
+        <path id="HOOK_28" d="M1095.45,103h-4.54V91.89h4.54Z"/>
+    </g>
+</svg>

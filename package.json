@@ -1,0 +1,41 @@
+{
+  "name": "webwsmsvue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build",
+    "proto": "pbjs -t json-module -w es6 -o src/proto/proto.js  src/proto/*.proto"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "core-js": "3.18.1",
+    "d3-scale": "^3.2.1",
+    "daypilot-pro-vue": "https://npm.daypilot.org/daypilot-pro-vue/trial/2021.4.5165.tar.gz",
+    "echarts": "^4.7.0",
+    "el-table-infinite-scroll": "^1.0.10",
+    "element-ui": "^2.15.6",
+    "protobufjs": "^6.11.2",
+    "snapsvg": "^0.5.1",
+    "stompjs": "^2.3.3",
+    "vue": "^2.6.14",
+    "vue-axios": "3.3.7",
+    "vue-i18n": "8.26.1",
+    "vue-router": "3.5.2",
+    "vuex": "3.6.2",
+    "zrender": "^4.3.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-router": "^4.1.0",
+    "@vue/cli-plugin-vuex": "^4.1.0",
+    "@vue/cli-service": "^4.5.13",
+    "imports-loader": "^0.8.0",
+    "mockjs": "^1.1.0",
+    "sass": "1.42.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "2.6.14",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.11"
+  }
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/" xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:graph="http://ns.adobe.com/Graphs/1.0/" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" xmlns:boxy="http://www.boxy-svg.com/boxyNS" i:viewOrigin="72.5796 396.7671" i:rulerOrigin="0 0" i:pageBounds="0 595.2754 841.8896 0" width="661.3259887695312" height="155.28500366210938" overflow="visible" enable-background="new 0 0 661.326 155.285" xml:space="preserve" boxy:zoom="149" boxy:scrollX="-10" boxy:scrollY="-98" viewBox="0 0 661.33 155.29" preserveAspectRatio="none">
+  <defs/>
+  <metadata>
+    <variableSets xmlns="http://ns.adobe.com/Variables/1.0/">
+      <variableSet varSetName="binding1" locked="none">
+        <variables/>
+        <v:sampleDataSets xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/"/>
+      </variableSet>
+    </variableSets>
+  </metadata>
+    <g i:extraneous="self">
+      <g id="Layer_2" i:layer="yes" i:dimmedPercent="50" i:rgbTrio="#FFFF4F004F00">
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M329.023,136.5h79.502v18.512h-79.502V136.5z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M281.116,129.838l22.635,5.644l-4.799,19.51      l-24.054,0.042L281.116,129.838z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M608.607,0.25h11.506v11.511h-11.506V0.25z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M616.26,105.917l44.501,49.078l-13.811-0.004      l-38.277-42.193L616.26,105.917z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M406.398,104.428h174.296v10.443H406.398V104.428      z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M252.501,137.992H408.67V23H252.501V137.992z"/>
+        <linearGradient id="XMLID_1_" gradientUnits="userSpaceOnUse" x1="614.4126" y1="10.5532" x2="614.4126" y2="114.8228">
+          <stop offset="0" style="stop-color:#FFFFFF"/>
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_1_)" stroke="#999999" stroke-width="0.5" d="M577.883,18.408l8.037-7.855l57.188,0.164      l7.834,7.774v96.331h-73.059V18.408z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M52.719,0.25H41.213v11.511h11.506V0.25z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M45.065,105.917L0.564,154.996l13.811-0.004      l38.277-42.193L45.065,105.917z"/>
+        <path i:knockout="Off" fill="#FB805F" stroke="#999999" stroke-width="0.5" d="M254.928,104.428H80.632v10.443h174.296V104.428z      "/>
+        <linearGradient id="XMLID_2_" gradientUnits="userSpaceOnUse" x1="-135.7539" y1="10.5532" x2="-135.7539" y2="114.8228" gradientTransform="matrix(-1 0 0 1 -88.8408 0)">
+          <stop offset="0" style="stop-color:#FFFFFF"/>
+          <stop offset="0" style="stop-color:#FCC0A7"/>
+          <stop offset="1" style="stop-color:#FB805F"/>
+          <a:midPointStop offset="0" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FFFFFF"/>
+          <a:midPointStop offset="0" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="0.5" style="stop-color:#FCC0A7"/>
+          <a:midPointStop offset="1" style="stop-color:#FB805F"/>
+        </linearGradient>
+        <path i:knockout="Off" fill="url(#XMLID_2_)" stroke="#999999" stroke-width="0.5" d="M83.442,18.408l-8.037-7.855      l-57.188,0.164l-7.834,7.774v96.331h73.059V18.408z"/>
+      </g>
+    </g>
+</svg>
